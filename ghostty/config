@@ -1,0 +1,10 @@
+# theme
+theme = tokyonight
+
+# font
+font-size = 14
+
+# background
+background-opacity = 0.85
+background-blur-radius = 20
+
